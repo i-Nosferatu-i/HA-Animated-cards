@@ -507,7 +507,7 @@ card_mod:
 ## $${\color{yellow}Examples}$$
 
 > [!NOTE]
-> Here are example cards with custom buttons and badges. Some of them use advanced templates that you can use to create your own custom card. More examples will be added over time.
+> Here are example cards with custom buttons and badges. Some of them use advanced templates that you can use to create your own custom Badge/Button. More examples will be added over time.
 
 
 <img width="474" height="148" alt="Screenshot 2026-02-27 155522" src="https://github.com/user-attachments/assets/9f2d6005-ae84-4863-9d15-1e067fd595be" />
